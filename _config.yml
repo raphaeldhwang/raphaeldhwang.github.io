@@ -101,3 +101,9 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: GitHub
+    url: https://github.com/raphaeldhwang
+    icon: fab fa-github-square
+  - title: Twitter
+    url: https://twitter.com/RaphaelDHwang1
+    icon: fab fa-twitter-square
