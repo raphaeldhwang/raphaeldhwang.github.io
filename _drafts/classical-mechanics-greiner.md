@@ -12,8 +12,16 @@ Notes on the book *Classical Mechanics: Systems of Particles and Hamiltonian Dyn
 
 ## Newtonian Mechanics in Moving Coordinate Systems
 ### Rotating Coordinate Systems
+
+In classical mechanics, Newton's laws hold in all systems **moving uniformly** relative to each other; however, in our real world, most objects are moving accelerated. For obtaining the equations of motion in a non-inertial system, we have to establish the equations in a fixed system and to transform them into the accelerated system.
+
 ### Free Fall on the Rotating Earth
+
+Neglecting the rotation about the sun and therefore consider a coordinate system at the earth center as an inertial system.
+
 ### Foucault's Pendulum
+
+In 1851, Foucault found a way to proove the earth rotation: A pendulum tends to maintain its plane of motion,
 
 ## Mechanics of Particle Systems
 ### Degrees of Freedom
