@@ -21,7 +21,9 @@ Neglecting the rotation about the sun and therefore consider a coordinate system
 
 ### Foucault's Pendulum
 
-In 1851, Foucault found a way to proove the earth rotation: A pendulum tends to maintain its plane of motion,
+In 1851, Foucault found a way to proove the earth rotation: A pendulum tends to maintain its plane of motion.
+
+![]({{ '/static/Foucault-rotz.gif' | relative_url }})
 
 ## Mechanics of Particle Systems
 ### Degrees of Freedom
