@@ -27,8 +27,15 @@ In 1851, Foucault found a way to proove the earth rotation: A pendulum tends to 
 
 ## Mechanics of Particle Systems
 ### Degrees of Freedom
+
+The degrees of freedom of a system represents the number of coordinates that are necessary to describe the motion of the particles of the system.
+
 ### Center of Gravity
 ### Mechanical Fundamental Quantities of Systems of Mass Points
+
+- Linear momentum
+- Angular momentum
+- Energy
 
 ## Vibrating Systems
 ### Vibrations of Coupled Mass Points
