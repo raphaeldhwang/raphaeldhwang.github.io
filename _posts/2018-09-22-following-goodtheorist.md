@@ -15,4 +15,4 @@ This is a note of following Gerard 't Hooft's [How to become a GOOD Theoretical 
 
 ## Classical Mechanics
 
-- *Classical Mechanics: Systems of Particles and Hamiltonian Dynamics*. Walter Greiner. 2002.
+- Walter Greiner (2002). *Classical Mechanics: Systems of Particles and Hamiltonian Dynamics*. Springer
