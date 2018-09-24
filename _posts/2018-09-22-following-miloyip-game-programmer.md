@@ -12,4 +12,4 @@ This is a note of following Milo Yip's [A Study Path for Game Programmer](https:
 ## Computer Science
 
 - CS Foundation
-    - Harold Abelson, Gerald Jay Sussman and Julie Sussman (1996). *Structure and Interpretation of Computer Programs*, 2nd Edition. The MIT Press
+    - [:memo:](/notes/book/sicp2e/) Harold Abelson, Gerald Jay Sussman and Julie Sussman (1996). *Structure and Interpretation of Computer Programs*, 2nd Edition. The MIT Press
