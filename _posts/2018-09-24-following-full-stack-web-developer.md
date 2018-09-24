@@ -2,6 +2,7 @@
 layout: post
 title: "Following 'Become a Full Stack Web Developer'"
 date: 2018-09-24 12:24 +0800
+categories: Blog
 tags: web
 comments: true
 ---

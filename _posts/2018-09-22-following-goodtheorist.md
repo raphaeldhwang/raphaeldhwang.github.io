@@ -2,6 +2,7 @@
 layout: post
 title: "Following Gerard 't Hooft's How to become a GOOD Theoretical Physicist"
 date: 2018-09-22 14:33 +0800
+categories: Blog
 tags: physics hooft
 comments: true
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Job Tracking"
 date: 2018-09-23 12:16 +0800
+categories: Blog
 tags: job
 comments: true
 ---

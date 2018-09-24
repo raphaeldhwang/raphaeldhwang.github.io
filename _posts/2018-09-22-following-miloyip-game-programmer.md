@@ -2,6 +2,7 @@
 layout: post
 title: "Following Milo Yip's A Study Path for Game Programmer"
 date: 2018-09-22 23:14 +0800
+categories: Blog
 tags: game
 comments: true
 ---
